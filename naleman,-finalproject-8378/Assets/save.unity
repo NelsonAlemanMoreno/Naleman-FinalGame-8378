@@ -759,7 +759,7 @@ Transform:
   m_GameObject: {fileID: 320850927}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -4.2727814, y: 17.190907, z: -23.357706}
+  m_LocalPosition: {x: -0.6027794, y: 17.190907, z: -26.647705}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1941,7 +1941,7 @@ Transform:
   m_GameObject: {fileID: 746760414}
   serializedVersion: 2
   m_LocalRotation: {x: 0.3826835, y: -0.00000004496244, z: 0.000000018624055, w: 0.92387956}
-  m_LocalPosition: {x: -4.2727814, y: 17.190907, z: -23.357706}
+  m_LocalPosition: {x: -0.6027794, y: 17.190907, z: -26.647705}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3633,7 +3633,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1210913303}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.359272, y: 0.042282462, z: -0.016296947, w: 0.9321321}
+  m_LocalRotation: {x: 0.35927197, y: 0.0422825, z: -0.016296959, w: 0.9321321}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -4825,7 +4825,8 @@ MonoBehaviour:
   _data:
     _json: '{"declarations":{"Kind":"Object","collection":{"$content":[{"name":"moveSpeed","value":{"$content":5.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"feet","value":{"$content":0,"$type":"UnityEngine.Object"},"typeHandle":{"Identification":"UnityEngine.GameObject,
-      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null","$version":"A"},"$version":"A"},{"name":"rotate","value":{"$content":90.0,"$type":"System.Single"},"typeHandle":{"Identification":"System.Single,
+      mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 414572619}
 --- !u!136 &1736784248
@@ -4910,7 +4911,7 @@ Transform:
   m_GameObject: {fileID: 1736784245}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 45.94, y: 0.99, z: 6.92}
+  m_LocalPosition: {x: 49.61, y: 0.99, z: 3.63}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -5994,7 +5995,7 @@ SceneRoots:
   - {fileID: 123385667}
   - {fileID: 1652714348}
   - {fileID: 640758465}
+  - {fileID: 525603133}
   - {fileID: 1736784251}
   - {fileID: 1833041006}
   - {fileID: 1121817406}
-  - {fileID: 525603133}
